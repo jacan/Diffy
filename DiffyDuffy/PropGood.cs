@@ -11,7 +11,10 @@ namespace DiffyDuffy
 		public int MyProperty
 		{
 			get;
-			set;
+			set
+			{
+				// I made something
+			}
 		}
 	}
 }
