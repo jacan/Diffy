@@ -8,5 +8,10 @@ namespace DiffyDuffy
 {
 	class PropGood
 	{
+		public int MyProperty
+		{
+			get;
+			set;
+		}
 	}
 }
