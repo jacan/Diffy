@@ -8,6 +8,13 @@ namespace DiffyDuffy
 {
 	class PropBad
 	{
-		public int MyProperty { get; set; }
+		public int MyProperty
+		{
+			get;
+			set
+			{
+				// I made something
+			}
+		}
 	}
 }
